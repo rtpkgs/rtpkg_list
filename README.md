@@ -14,6 +14,9 @@
 | 9 | PDFGen | 简单的C PDF创建/生成库, 用于嵌入其他需要基本PDF输出的场景 | Unlicense | https://github.com/AndreRenaud/PDFGen | 暂无 | 待移植 |
 | 10 | UGUI | 开源的嵌入式系统GUI模块 | [许可证](https://github.com/achimdoebler/UGUI/blob/master/LICENSE.md "链接") | https://github.com/achimdoebler/UGUI | 暂无 | 待移植 |
 | 11 | minmea | 一个轻量级的GPS NMEA 0183解析器库 | WTFPL | https://github.com/kosma/minmea | 暂无 | 待移植 |
-
-
+| 12 | id3v2lib | id3v2lib是一个用C语言编写的库，用于从mp3文件中读取和编辑id3标记 | BSD-2-Clause | https://github.com/larsbs/id3v2lib | 暂无 | 待移植 |
+| 13 | linmath | 一个精益线性数学库，针对图形编程。支持vec3、vec4、mat4x4和四元数 | WTFPL | https://github.com/datenwolf/linmath.h | 暂无 | 待移植 |
+| 14 | pbc | c语言ProtocolBuffer库 | MIT | https://github.com/cloudwu/pbc | 暂无 | 待移植 |
+| 15 | libyaml | 用于解析和发出YAML的C库 | MIT | https://github.com/yaml/libyaml | 暂无 | 待移植 |
+| 16 | mread | 一个轻量级的epoll包用于读多套接字 | MIT | https://github.com/cloudwu/mread | 暂无 | 待移植 |
 
