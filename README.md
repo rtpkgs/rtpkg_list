@@ -19,4 +19,6 @@
 | 14 | pbc | c语言ProtocolBuffer库 | MIT | https://github.com/cloudwu/pbc | 暂无 | 待移植 |
 | 15 | libyaml | 用于解析和发出YAML的C库 | MIT | https://github.com/yaml/libyaml | 暂无 | 待移植 |
 | 16 | mread | 一个轻量级的epoll包用于读多套接字 | MIT | https://github.com/cloudwu/mread | 暂无 | 待移植 |
+| 16 | libIEC61850 | ibIEC61850官方知识库，IEC61850协议的开源库 | GPL3.0 | https://github.com/mz-automation/libiec61850 | 暂无 | 待移植 |
+
 
