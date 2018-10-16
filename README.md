@@ -27,4 +27,4 @@
 | 22 | tpl | 一个用于C语言的小型二进制序列化库 | [许可证](https://github.com/troydhanson/tpl/blob/master/LICENSE "链接") | https://github.com/troydhanson/tpl | 暂无 | 待移植 |
 | 23 | TinyEKF | 轻量级的C/ c++扩展卡尔曼滤波器 | [许可证](https://github.com/simondlevy/TinyEKF/blob/master/LICENSE.md "链接") | https://github.com/simondlevy/TinyEKF | 暂无 | 待移植 |
 | 24 | Tinyhttpd | Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质 | None | https://github.com/EZLippi/Tinyhttpd | 暂无 | 待移植 |
-| 25 | miniz | miniz:单个C源文件zlib-replace库 | [许可证](https://github.com/richgel999/miniz/blob/master/LICENSE "链接") | https://github.com/EZLippi/Tinyhttpd | 暂无 | 待移植 |
+| 25 | miniz | miniz:单个C源文件zlib-replace库 | [许可证](https://github.com/richgel999/miniz/blob/master/LICENSE "链接") | https://github.com/richgel999/miniz | 暂无 | 待移植 |
